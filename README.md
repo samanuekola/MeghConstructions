@@ -61,7 +61,3 @@ For any inquiries or feedback, please contact:
 - **GitHub:** https://github.com/samanuekola
 
 ---
-
-Feel free to explore and customize the template to suit your needs!
-
----
